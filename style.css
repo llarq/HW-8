@@ -1,0 +1,54 @@
+.text-box > h3:first-child{
+    color: pink;
+}
+#greycol {
+    color: grey;
+}
+div > p:first-child{
+    color: red;
+}
+.text-box > p:nth-child(7){
+    color: green;
+}
+.yellow {
+    color: yellow;
+}
+
+.list-box > h3:hover {
+    background-color: antiquewhite;
+    }
+    .list-box li:hover {
+    background-color: rgb(38, 220, 193);
+    }
+    .list-box li:active {
+    background-color: rgb(38, 132, 220);
+    }
+    .list-box > h3:first-child {
+    background-color: rgb(244, 247, 92);
+    }
+    .list-box > h3:nth-child(3){
+        color: aqua;
+        background-color: black;
+    }
+    .list-box li{
+        color:royalblue;
+    }
+    .list-box > h3:nth-child(5){
+        color: darkgreen;
+        background-color: whitesmoke;
+    }
+    .list-box > h3:nth-child(7){
+        color: hotpink;
+        background-color: lavender;
+    }
+    .list-box > h3:nth-child(9){
+        color: firebrick;
+        background-color: sienna;
+    }
+    h2:hover {
+        color: blueviolet;
+    }
+    h2{
+        background-color: wheat;
+        color: chartreuse;
+    }
